@@ -52,7 +52,7 @@ You can reach me here on GitHub by opening an issue or checking out my projects!
 ---
 
 ## 👀 Visitors
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SkyPlay-Code.SkyPlay-Code)
+![Visitor Count](https://gpvc.arturio.dev/SkyPlay-Code)
 
 ---
 
