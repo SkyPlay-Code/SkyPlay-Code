@@ -51,14 +51,4 @@ You can reach me here on GitHub by opening an issue or checking out my projects!
 
 ---
 
-## 👀 Visitors
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=SkyPlay-Code.SkyPlay-Code" alt="visitor badge"/>
-</div>
-<script type="module">
-  import 'https://cdn.skypack.dev/visitor-badge@v0.1.3';
-</script>
-
----
-
 ✨ Thanks for visiting! Let's learn and grow together! 😊
