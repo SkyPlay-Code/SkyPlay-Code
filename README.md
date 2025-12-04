@@ -52,7 +52,7 @@ You can reach me here on GitHub by opening an issue or checking out my projects!
 ---
 
 ## 👀 Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=SkyPlay-Code&color=blue&style=flat)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SkyPlay-Code.SkyPlay-Code)
 
 ---
 
