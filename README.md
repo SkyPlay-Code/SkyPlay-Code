@@ -19,7 +19,7 @@ FRONTEND INTERFACES <span style="color: #bd34fe;">//</span> COMPUTER VISION LOGI
 <b>Focus:</b> Merging React web apps with Python/OpenCV automation.
 </p>
 <p>
-I don't just write code; I build interactive systems. Currently experimenting with <b>Gesture Control</b> and <b>3D Web Interactions</b>.
+I don't just write code; I build interactive systems. Currently experimenting with <b>Gesture Control</b>.
 </p>
 <br>
 <a href="mailto:skydecay1@proton.me">
