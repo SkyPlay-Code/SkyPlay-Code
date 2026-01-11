@@ -1,48 +1,42 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Learning+to+code+everyday+🚀" alt="Typing SVG" />
-</p>
+# SkyDecay (SkyPlay-Code)
 
-# 👋 Hey there! I'm SkyPlay-Code 
- 
-💡 Curious about tech and passionate about learning new things!
+### Frontend & Python Developer based in India.
+Merging clean web interfaces with computer vision logic.
 
 ---
 
-## 🔥 My Current Learning Journey:
-- Python 🐍
-- Web development (HTML, CSS, JavaScript) 🌐
-- Git & GitHub for projects 💻
+### 🚀 About Me
+I am a 16-year-old developer (Class 11) focused on building functional, interactive systems. Unlike typical web developers, I bridge the gap between **Full Stack Web Development** and **Python-based Computer Vision**.
+
+- **Currently building:** Gesture control systems and interactive UI experiments.
+- **Focus:** Performance, React architecture, and OpenCV implementations.
 
 ---
 
-## 🛠️ Tools & Technologies I Use:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+### 🛠 Tech Stack
+I don't just "learn" these; I build with them.
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | React, TypeScript, HTML5, CSS3 (Glassmorphism/Animations) |
+| **Backend** | Node.js, Express |
+| **AI / Python** | Python 3, OpenCV (Computer Vision), NumPy |
+| **Tools** | Git, VS Code, Linux Environment |
 
 ---
 
-## ✨ Fun facts about me:
-- I enjoy experimenting with code.
-- I believe learning never stops!
-- I like discovering how things work behind the scenes.
+### 📂 Selected Works
 
----
+#### 1. [Gesture Control System](https://github.com/skyplay-code/YOUR-REPO-LINK-HERE)
+*Python, OpenCV, NumPy*
+A computer vision script that tracks hand movements in real-time to control desktop interfaces without a mouse.
+- **Key Feature:** Real-time contour detection and coordinate mapping.
+- **Math used:** Euclidean distance calculations for gesture recognition.
 
-## 📫 How to reach me:
-You can reach me here on GitHub by opening an issue or checking out my projects!
-
----
-
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkyPlay-Code&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyPlay-Code&theme=radical" width="400"/>
-</p>
+#### 2. [Full Stack Web Platform](https://github.com/skyplay-code/YOUR-REPO-LINK-HERE)
+*MERN Stack (MongoDB, Express, React, Node)*
+A complete web application handling user authentication and data management.
+- **Architecture:** REST API backend connected to a React TypeScript frontend.
 
 ---
 
@@ -51,4 +45,11 @@ You can reach me here on GitHub by opening an issue or checking out my projects!
 
 ---
 
-✨ Thanks for visiting! Let's learn and grow together! 😊
+### 📫 Connect
+- **Email:** skydecay1@proton.me
+- **Portfolio:** [Link to your website if hosted]
+
+<!-- 
+Note: I removed the stats graph because a sparse graph hurts more than it helps. 
+Focus on the pinned repositories above! 
+-->
