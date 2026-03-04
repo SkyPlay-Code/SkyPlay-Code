@@ -43,42 +43,6 @@ I don't just write code; I build interactive systems. Currently experimenting wi
 </table>
 <br />
 
-<!-- PROJECTS SECTION -->
-<h2 align="center">📂 Selected Modules</h2>
-<table align="center" border="0">
-<tr>
-<td width="50%">
-<h3 align="center">👁️ Gesture Control System</h3>
-<div align="center">
-<!-- REPLACE SRC BELOW -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM2eGk5eHlqaHlqaHlqaHlqaHlqaHlqaHlqaHlqaHlx/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" style="border-radius: 10px;" alt="Gesture Demo" />
-</div>
-<p align="center">
-Real-time hand tracking using <b>Python & OpenCV</b>. Controls mouse movements via webcam input.
-<br><br>
-<a href="https://github.com/skyplay-code/YOUR-REPO-LINK">
-<img src="https://img.shields.io/badge/View_Source-bd34fe?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" />
-</a>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">🌐 MERN Stack Platform</h3>
-<div align="center">
-<!-- REPLACE SRC BELOW -->
-<img src="https://cdn.dribbble.com/users/1615584/screenshots/15710288/media/7847424b9a7109289fc0c22dc9b114d9.jpg?compress=1&resize=400x300" width="100%" style="border-radius: 10px;" alt="Web App" />
-</div>
-<p align="center">
-Authentication, Data Management, and responsive UI built with <b>React & Node.js</b>.
-<br><br>
-<a href="https://github.com/skyplay-code/YOUR-REPO-LINK">
-<img src="https://img.shields.io/badge/View_Source-bd34fe?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" />
-</a>
-</p>
-</td>
-</tr>
-</table>
-<br />
-
 <!-- FOOTER -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0affff&height=60&section=footer&fontSize=0" width="100%" />
