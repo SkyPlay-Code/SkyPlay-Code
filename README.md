@@ -1,49 +1,74 @@
-<!-- TITLE SECTION -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0affff&height=100&section=header&text=SkyDecay&fontSize=80&fontColor=050505&fontAlignY=35&animation=fadeIn" width="100%" />
-<h3 style="margin-top: -20px;">
-FRONTEND INTERFACES <span style="color: #bd34fe;">//</span> COMPUTER VISION LOGIC
-</h3>
+
+# ⌘ The Architect of Logic & Interactivity
+### **Hi, I'm SkyPlay.** 
+
+[![Location](https://img.shields.io/badge/Base-India%20%E1%B4%B5%E1%B4%B8-black?style=for-the-badge&logo=googlemaps)](#) [![Code](https://img.shields.io/badge/Code-Python%20%7C%20TS%20%7C%20JS-blue?style=for-the-badge&logo=python)](#) [![Focus](https://img.shields.io/badge/Current%20Focus-AI%20%26%20Sys%20Architecture-purple?style=for-the-badge)](#)
+
+*“Bridging philosophical concepts, localized human data, and low-level computer science into living software.”*
+
 </div>
-<br />
 
-<!-- INTRO & STACK GRID -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="50%" valign="top">
-<h2>⚡ System Status</h2>
-<p>
-<b>Role:</b> Frontend & Python Developer<br>
-<b>Location:</b> India 🇮🇳<br>
-<b>Class:</b> 11 (Student)<br>
-<b>Focus:</b> Merging React web apps with Python/OpenCV automation.
-</p>
-<p>
-I don't just write code; I build interactive systems. Currently experimenting with <b>Gesture Control</b>.
-</p>
-<br>
-<a href="mailto:skydecay1@proton.me">
-<img src="https://img.shields.io/badge/Email_Me-0affff?style=for-the-badge&logo=protonmail&logoColor=black&labelColor=101010" />
-</a>
-</td>
-<td width="50%" valign="top">
-<h2>🛠 Intelligence Stack</h2>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
-<br><br>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-<br><br>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</td>
-</tr>
-</table>
-<br />
+---
 
-<!-- FOOTER -->
+### 👁‍🗨 The Philosophy 
+Most developers write code to tell a computer what to do. I write code to map out ideas, solve micro-localized problems, and dissect how systems work from the ground up. Whether it's translating academic philosophy into algorithmic scripts (`Simulation-Thought`) or reverse-engineering how decentralized systems work, my repositories are an open timeline of relentless curiosity.
+
+---
+
+### 🚀 The Engineering Evolution 
+
+When you browse my 80+ repositories, you aren't just seeing projects; you're seeing a chronological evolution from curiosity to system architecture. 
+
+#### 💠 Tier 3: Core Engineering & Systems (Current)
+I build the mechanics behind the interface. No fluff, just raw logic.
+*   **`js-graphic-engine`**: A raw, vanilla Javascript graphics rendering engine. Proving you don't always need an external library when you understand the math.
+*   **`py-blockchain` & `bittorrent-py`**: Reverse-engineering the decentralized world. Writing a custom blockchain ledger in Python and implementing the core logic of P2P BitTorrent networks. 
+*   **`InstaTUI` & `ig-chat-exporter`**: Building robust, interactive Terminal User Interfaces (TUI) in Python for highly efficient data scraping and interface navigation.
+
+#### 🛡 Tier 2: AI Automation & Security (2025 - Mid)
+Solving modern security needs and integrating large language models.
+*   **`my-music-vault`**: A minimalist, high-security client-side digital vault for personal music compositions. Your passwords and data never touch a remote database.
+*   **`AI-X-QnA` & `counsAI`**: Practical AI-wrappers and intelligent counselors designed for targeted conversational use cases.
+*   **`python` Utility Hub**: My master collection of Python automation scripts focusing on file-conversion, OS-level organization, and OpenCV computer vision tools.
+
+#### 🌱 Tier 1: Local Context & Human Solutions (The Foundations)
+I firmly believe code should serve the immediate community. 
+*   **`x-mark` & `MarkPrediction`**: Built a statistical analysis platform strictly dedicated to analyzing the academic marks, percentages, and performance metrics of Class 10th students from K.V.1 BBSR 10thB. 
+*   **`12ncert` & `Chemistry_Class_Discussion`**: Dedicated digital environments for Indian academic preparation, ensuring code helps learning.
+
+---
+
+### ⚙️ My Technical Blueprint
+
+<details>
+  <summary><b> 💻 1. Core Languages & Environment (Click to expand)</b></summary>
+  <ul>
+    <li><b>Python:</b> AI Automation, Computer Vision, TuI Development, P2P architecture</li>
+    <li><b>TypeScript/JavaScript:</b> Client-side DOM manipulation, Cryptographic vaults, Real-time WebSockets</li>
+    <li><b>Tools:</b> Jupyter environments, Git, OS-level bash scripting</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b> 🧠 2. Concepts & Architectures Engaged</b></summary>
+  <ul>
+    <li>Decentralized Ledgers & Blockchain implementation</li>
+    <li>Peer-to-Peer data sharing architecture</li>
+    <li>Generative AI modeling & API optimization</li>
+    <li>Client-side Cryptography</li>
+    <li>Graphics Math (3D calculus via code)</li>
+  </ul>
+</details>
+
+---
+
+### 🎲 A Game of Patience
+If you made it this far into my README, I suggest checking out one of my earliest code behavioral experiments: **[PatienceNotAvailable](https://github.com/SkyPlay-Code/PatienceNotAvailable)**. Play it, and see how much patience you *actually* have. 
+
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0affff&height=60&section=footer&fontSize=0" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=SkyPlay-Code&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <p><b>Open to collaborations on heavy backend architectures, experimental AI UIs, and philosophical game concepts.</b></p>
 </div>
